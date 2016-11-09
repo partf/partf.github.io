@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello World
 
 TEsting upload file from desktop app 20161107
@@ -5,3 +6,6 @@ TEsting upload file from desktop app 20161107
 
 
 I AM EDITING THE FILE 20161109
+=======
+Hello World
+>>>>>>> parent of 1792e77... Change 1
